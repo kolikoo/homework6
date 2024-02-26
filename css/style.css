@@ -1,0 +1,217 @@
+body{background-color: rgba(221, 234, 248, 1);}
+
+
+
+
+
+
+
+
+
+.container{
+ max-width: 1440px;
+width: 100%;
+margin-inline: auto;
+/* background-color: rgba(221, 234, 248, 1); */
+
+
+}
+
+
+header{
+ background-color: rgba(255, 255, 255, 1);
+ width: 100%;
+ padding: 52px 98px ;
+display: flex;
+
+justify-content: space-between;
+
+}
+
+.airplane{
+ vertical-align: top;
+vertical-align: middle;
+}
+
+.nav1{
+ vertical-align: middle;
+display: flex;
+justify-content: space-around;
+
+
+}
+
+.ul1{
+  width: 393px;
+ display:flex ;
+justify-content: space-between;
+vertical-align: middle;
+}
+
+.one{color:rgba(39, 24, 127, 1);}
+
+.li1{ 
+ display: flex;
+ justify-content: space-between;
+
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  vertical-align: middle;
+  font-size: 24px;
+ 
+
+}
+
+.nava1{color: rgba(117, 139, 253, 1);}
+
+.searchingbutton{
+border:  3px solid rgba(117, 139, 253, 1);
+width: 222px;
+border-radius: 10px;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+vertical-align: middle;
+
+}
+
+
+.fa-magnifying-glass{
+ color: rgba(117, 139, 253, 1);
+ font-size: 24px;
+ margin-right: 8px;
+}
+
+
+
+/* section  */ /* section  */ /* section  */ /* section  */ /* section  */ /* section  */
+
+
+.section1{
+ margin-inline: auto;
+ margin-top: 115px;
+ margin-bottom: 115px;
+width: 90%;
+height: 822px;
+}
+
+
+.companynews{
+ color: rgba(39, 24, 127, 1);
+font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  vertical-align: middle;
+  font-size: 32px;
+  margin-bottom: 68px;
+}
+
+.cardbackground{
+ background-color: white;
+ width: 32%;
+ border-radius: 10px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 300px;
+ flex-direction: column;
+ align-content: space-between;
+ flex-wrap: wrap;
+
+}
+
+
+.cards{
+ width: 100%;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+align-content: space-around;
+height: 717px; 
+}
+
+
+
+
+
+.pcard{
+ font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  vertical-align: middle;
+  font-size: 16px;
+  color: rgba(19, 59, 58, 1);
+  margin-top: 33px;
+
+}
+
+
+.card{
+ display: flex;
+ justify-content: space-between;
+ flex-wrap: wrap;
+ align-items:center;
+ flex-direction: column;
+ align-content: space-around;
+
+ width: 100%;
+
+
+}
+
+
+ /* foooter */ /* foooter */ /* foooter */ /* foooter */ /* foooter */
+
+
+footer{
+ width: 100%;
+ background-color: rgba(117, 139, 253, 1);
+ padding: 75px 98px 105px;
+}
+
+.followus{
+ width: 114px;
+ height: 54px;
+display: flex;
+justify-content: space-between;
+color: white;
+/* align-items: center; */
+flex-direction: column;
+
+
+}
+
+.brands{
+ display: flex;
+ justify-content: space-between;
+ width: 100px;
+ color: white;
+
+}
+
+
+
+.visa{
+ display: flex;
+justify-content: space-between;
+width: 35%;
+}
+
+.footernav{
+ display: flex;
+justify-content: space-between;
+width: 100%;
+
+}
+
+
+.search{
+ border-radius: 10px;
+ height: 50px;
+width: 222px;
+border:3px solid rgba(117, 139, 253, 1);
+ 
+
+
+}
